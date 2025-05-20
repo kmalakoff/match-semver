@@ -1,6 +1,7 @@
-const assert = require('assert');
+import assert from 'assert';
 
-const match = require('match-semver');
+// @ts-ignore
+import match from 'match-semver';
 
 describe('match', () => {
   describe('comparators', () => {
