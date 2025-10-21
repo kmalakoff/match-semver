@@ -1,6 +1,5 @@
 import assert from 'assert';
 
-// @ts-ignore
 import match from 'match-semver';
 
 describe('match', () => {
