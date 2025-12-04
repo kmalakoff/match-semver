@@ -1,1 +1,1 @@
-ignores: ["node-version-use", "ts-dev-stack", "@biomejs/biome", "match-semver"]
+ignores: ["node-version-use", "ts-dev-stack", "match-semver"]
