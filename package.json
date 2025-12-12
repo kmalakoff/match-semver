@@ -1,6 +1,6 @@
 {
   "name": "match-semver",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Checks match of version against semver comparators",
   "keywords": [
     "match",
